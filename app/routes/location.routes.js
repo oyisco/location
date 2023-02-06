@@ -1,4 +1,4 @@
-module.exports = function(app) {
+okmodule.exports = function(app) {
 
     var location = require('../controllers/location.controller.js');
 
